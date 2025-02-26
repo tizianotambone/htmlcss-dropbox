@@ -201,9 +201,40 @@ color: blue;
 }
     
     
+/* quarta parte */
+.contenitore3{
+    width: 100%;
+    border: 1px solid  rgb(135, 133, 133);
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+  
+    
+   
+}
 
 
-
+.subcontenitore3{
+    width: 60%;
+    position: relative;
+}
+    
+    
+.bild{
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    
+}
+.end{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    
+}
    
   
     
