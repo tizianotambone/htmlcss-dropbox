@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*  */
+.start{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    border: 1px solid black;
+   
+}
+    
+.logosmall{
+    height: 60px;
+    
+    
+}
+    
+      
+
+.list{
+    list-style-type: none;
+    display: flex;
+    padding: 20px;
+    
+}
+    
+   
+
+    
+
+/* utility */
+.link{
+    background-color: rgb(9, 75, 160);
+    color: white;
+
+}
