@@ -91,27 +91,34 @@ main{
         display: flex;
         justify-content: center;
         padding: 30px;
-       
     }  
-    .figlio1{
-        width: 20%;
-        height: 100px;
-        background-color: red;
-        border: 1px solid black;
-    }
-    .figlio2{
-        width: 20%;
-        height: 100px;
-        background-color: red;
-        border: 1px solid black;
-    }
-    .figlio3{
-        width: 20%;
-        height: 100px;
-        background-color: red;
-        border: 1px solid black;
-    }
         
+       
+    .contenitorepadre{
+        display: flex;
+        justify-content: space-between;
+    }
+   .figlio1{
+    height: 50px;
+    width: 200px;
+    background-color: red;
+    border: 1px solid black;
+   }
+   
+   
+   .figlio2{
+    height: 50px;
+    width: 200px;
+    background-color: red;
+    border: 1px solid black;
+   }
+    
+   .figlio3{
+    height: 50px;
+    width: 200px;
+    background-color: red;
+    border: 1px solid black;
+   }
     
     
 
