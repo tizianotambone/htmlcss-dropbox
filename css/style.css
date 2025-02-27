@@ -203,11 +203,13 @@ color: blue;
     
 /* quarta parte */
 .contenitore3{
-    width: 100%;
+    width: 80%;
     border: 1px solid  rgb(135, 133, 133);
-    padding: 30px;
     display: flex;
     justify-content: center;
+    align-items: center;
+    margin: 50px 170px;
+    
   
     
    
@@ -215,14 +217,14 @@ color: blue;
 
 
 .subcontenitore3{
-    width: 60%;
+    width: 96%;
+    /* border: 1px solid rgb(135, 133, 133); */
     position: relative;
+    margin: 0 auto;
 }
-    
-    
 .bild{
-    border: 1px solid black;
-    width: 100%;
+    border: 1px solid rgb(135, 133, 133);
+    /* width: 100%; */
     text-align: center;
     padding: 5px;
     
@@ -233,8 +235,50 @@ color: blue;
     position: absolute;
     top: 20px;
     right: 5px;
+}
+    
+/* quinta parte  */
+.contenitore4{
+    width: 80%;
+    
+    
+    /* height: 300px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+    
+.subcontenitore4{
+    width: 60%;
+    
+    
+}  
+.subcontenitore5{
+    width: 40%;
+    margin-right: 80px;
+    
     
 }
+.partner{
+    width: 400px;
+   
+}  
+.but{
+    color: gray;
+    background-color: white;
+    width: 200px;
+    height: 30px;
+}
+.carattere{
+    font-size: 30px;
+}
+.carattere2{
+
+}
+   
+    
+    
    
   
     
