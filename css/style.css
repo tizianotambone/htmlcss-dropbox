@@ -284,14 +284,38 @@ color: blue;
 .contenitore6{
     width: 80%;
     margin: 100px auto;
-    
-   
-   
-    
 }
 .contenitore6>h3{
     text-align: center;
 }
+/* settimaparte */
+.contenitore7{
+    width: 100%;
+    background-color: rgb(149, 201, 220);
+    border: 1px solid black;
+}
+   
+.subcontenitore7{
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+    
+.business{
+    width: 200px;
+}
+    
+    
+    
+   
+   
+    
+    
+   
+   
+    
    
     
     
