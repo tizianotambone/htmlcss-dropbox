@@ -13,6 +13,7 @@
     align-items: center;
     position: fixed;
     top: 0;
+    z-index: 99;
     
 }
 .btn{
@@ -109,12 +110,7 @@ main{
 }
 
     
-.contenitorepadre{
-    width: 80%;
-    display: flex;
-    justify-content: center;
-    padding: 30px;
-}  
+  
 .subcontenitore3{
     width: 80%;
 }
@@ -218,7 +214,7 @@ color: blue;
 
 
 .subcontenitore3{
-    width: 96%;
+    width: 100%;
     /* border: 1px solid rgb(135, 133, 133); */
     position: relative;
     margin: 0 auto;
@@ -278,8 +274,8 @@ color: blue;
 }
 .carattere2{
     font-size: 15px;
-
 }
+
 /* sesta parte */
 .contenitore6{
     width: 80%;
@@ -307,6 +303,64 @@ color: blue;
 .business{
     width: 200px;
 }
+/* ottava parte */
+.contenitore8{
+    width: 60%;
+    /* margin-left: 350px; */
+    margin: 0 150px;
+   
+}
+.sottocontenitore8{
+    width: 60%;
+    
+    height: 300px;
+    margin: 0 auto;
+}
+.carattere3{
+    font-size: 60px;
+    margin:50px 0;
+    
+}
+
+/* footer */
+.contenitore9{
+    width: 100%;
+    background-color: black;
+    padding: 10px;
+    
+}
+.sottocontenitore9{
+    width: 60%;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+.bianco{
+    width: 60%;
+    color: white;
+    margin: 0 auto;
+}
+.spazio1{
+    margin-top: 10px;
+}
+.lista3{
+    list-style-type: none;
+    
+}
+
+
+
+    
+    
+    
+
+
+
+
+    
     
 
     
