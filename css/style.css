@@ -290,22 +290,26 @@ color: blue;
 }
 /* settimaparte */
 .contenitore7{
-    width: 100%;
-    background-color: rgb(149, 201, 220);
-    border: 1px solid black;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
    
 .subcontenitore7{
     width: 15%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
+    margin: 80px 80px;
+  
 }
     
 .business{
     width: 200px;
 }
+    
+
+    
     
     
     
